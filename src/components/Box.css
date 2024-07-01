@@ -1,0 +1,20 @@
+.boxbtnlight{
+    all: unset;
+    border: 2px solid black;
+    border-radius: 4px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 15px 25px;
+    margin: 10px;
+}
+.boxbtndark{
+    all: unset;
+    border: 2px solid black;
+    border-radius: 4px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 15px 25px;
+    margin: 10px;
+}
