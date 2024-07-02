@@ -1,5 +1,5 @@
 import React from 'react'
-import dice from '../images/diceimg.png'
+import dice from './images/diceimg.png'
 import './Startgame.css'
 
 export default function Startgame(props) {

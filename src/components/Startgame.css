@@ -14,7 +14,6 @@
     font-weight: 900;
     position: relative;
     top: 40px;
-
     color: black;
 }
 .innerdiv2{
@@ -31,6 +30,7 @@
     padding: 10px 60px 10px 60px;
     display: flex; 
     transition: 0.4s background ease-in;
+    border-radius: 4px;
 }
 .mainbtn:hover{
     color: black;
